@@ -1,2 +1,3 @@
-# beagle_1
-1st
+# BeagleParty
+
+test for some features on GitHub
