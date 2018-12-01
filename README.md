@@ -8,12 +8,8 @@ aaa
 aa
 a
 
-a
-aa
-aaa
-aaaa
-aaaaa
-
-
+bbbbbbbbbbb
+bbbbbbbbb
+b
 
 There's a cat.
